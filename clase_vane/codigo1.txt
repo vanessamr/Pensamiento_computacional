@@ -1,0 +1,19 @@
+programa que permita calculare la edad de una persona a partir de su año de nacimiento
+
+1. inicio
+2. definir año_nacimiento(int),
+           año_actual(int) #int es el numero entero, los que tienen numero decimal se llaman flotantes, doble o real
+           edad(int)#las variables no pueden iniciar con número, si se tienen dos palabras, se debe poner"_", a esto se le conoce snake case, tambien se puede poner una mayuscula en lugar de espacio se llama camellcase, oppercase con mayuscula al inicio
+           nombre(str) #str es la cadena y es el no numerico, se usa cuando son 2 ó más caracteres, cuando es uno se pone chr, se llama caracter.
+3. asignar año_act=2023
+4. escribir "Ingresa tu nombre" #Escribir es para que aparezca un mensaje
+5. asignar nombre
+6. escribir "ingresa tu año de nacimiento", nombre
+7. asignar año_nacimiento
+#todo lo que acabamos de poner es la entrada de datos
+8. Edad=año_actual-año_nacimiento
+#esta parte (8) es el proceso
+9. Escribir nombre "tu edad es", edad, "años"
+10. Fin
+
+#hacer algoritma que calcule el promedio de una persona que con 4 calificaciones
